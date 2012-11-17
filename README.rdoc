@@ -2,5 +2,7 @@
 
 This is a commented 14-step walkthrough to help new Rails programmers go through the process of setting up routes. This follows section 3 in Code Mountain for Starter League students.
 
+Comments start in the routes.rb file.
+
 http://samuelrsolomon.com
 
